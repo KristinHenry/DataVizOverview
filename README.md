@@ -20,8 +20,18 @@ Great for seeing how similar individual items are to each other, with two variab
 
 ## Useful complex charts for seeing context
 
+### Parallel Coordinate Graphs
+Multi-variate visual comparisons. Can highlight what contributes to groupings and outliers. ...
+
+
+![alt text](parallelCoordinates_sm.jpg "Parallel Coordiates Plot")
+
++ This example allows draging-reordering of axis: https://bl.ocks.org/jasondavies/1341281
+
+
 ### Maps
 Maps can show context in a geospatial setting. How close is that restaurant to the theater? Two dimensions are already used by positioning on the map, but can use color and icons to indicate attributes of data points.
+
 
 
 
