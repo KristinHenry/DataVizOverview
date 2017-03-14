@@ -9,7 +9,7 @@ Bottom line: data visualisation helps us see patterns in data that would be diff
 Simple charts are usually best, for readability.
 
 ### Line chart
-Great for seeing trends, or change over time.
+Great for seeing trends, like change over time or volume over temperature.
 
 ### Bar chart
 Great for seeing how groups compare with each other
