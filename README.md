@@ -21,7 +21,7 @@ Great for seeing how similar individual items are to each other, with two variab
 ## Useful complex charts for seeing context
 
 ### Parallel Coordinate Graphs
-Multi-variate visual comparisons. Can highlight what contributes to groupings and outliers. ...
+Multi-variate visual comparisons. Can highlight what contributes to groupings and outliers. ... ...
 
 
 ![alt text](parallelCoordinates_sm.jpg "Parallel Coordiates Plot")
