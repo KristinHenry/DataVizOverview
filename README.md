@@ -3,7 +3,7 @@
 
 ## What is Data Visualization?
 
-Bottom line: data visualisation helps us see patterns in data that would be difficult to see from a list of numbers and other data structures. 
+Bottom line: data visualization helps us see patterns in data that would be difficult to see from a list of numbers and other data structures. 
 
 ## Useful simple charts for seeing patterns
 Simple charts are usually best, for readability.
@@ -32,6 +32,19 @@ Multi-variate visual comparisons. Can highlight what contributes to groupings an
 ### Maps
 Maps can show context in a geospatial setting. How close is that restaurant to the theater? Two dimensions are already used by positioning on the map, but can use color and icons to indicate attributes of data points.
 
+
+
+## Readability 
+
+Choosing a chart type is just the first step. 
+
+### Annotation
+
+Adding key annotations --> context, ...
+
+![alt text](annotatedLineGraph.jpg "Annotating key events in a timeline")
+
++ In this example, annotation shows context. Example Source: The New England Journal of Medicine http://www.nejm.org/doi/full/10.1056/NEJMp1700101
 
 
 
